@@ -48,8 +48,6 @@ The models are evaluated using:
 - Recall
 - F1-Score
   
-**Model Accuracy:** 
-
 ## Model Accuracy
 
 The Decision Tree classifier achieved the highest accuracy of **99.92%**, with a precision of **99.96%**, recall of **99.96%**, and F1-score of **99.96%** among the evaluated models.
